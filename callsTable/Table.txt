@@ -1,0 +1,11 @@
+1	Homer	Lenny	02.04.2000	13:00	5
+2	Vanya	Tilya	04.05.2000	04:10	32
+3	John	Ivan	01.01.2001	02:05	10
+4	Mo	Homer	01.01.2004	20:51	10
+5	Homer	Kent	19.03.2004	21:40	15
+6	Milhouse	Liza	25.11.2007	10:13	4
+7	Bart	Milhouse	04.08.2009	15:15	12
+8	Marge	Patty	12.11.2010	12:11	7
+9	Edna	Seymour	06.11.2011	18:34	9
+10	Liza	Joe	23.09.2012	18:45	2
+11	Nelson	Ralph	07.12.2015	14:21	4
